@@ -1,1 +1,3 @@
-This url is moved. Please visit https://vkulaganathan.github.io/
+**This repo moved.**
+
+Please visit https://vkulaganathan.github.io/
